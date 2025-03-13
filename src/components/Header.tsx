@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 import { StatusBar } from 'react-native';
 
 export const HeaderContainer = styled.View`
-  background-color: #007BFF;
+  background-color: #0056b3;
   padding-top: ${StatusBar.currentHeight}px;
   padding: 20px;
 `;
